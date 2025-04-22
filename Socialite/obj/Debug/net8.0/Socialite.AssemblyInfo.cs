@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Socialite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c4652c9965d9dd1bee8a128a8cb9965b07be5c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca67382d74a60213508c000d051f077ff13d8f61")]
 [assembly: System.Reflection.AssemblyProductAttribute("Socialite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Socialite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
