@@ -58,3 +58,4 @@ C:\Users\andre\Desktop\Socialite\Socialite\obj\Debug\net8.0\refint\Socialite.dll
 C:\Users\andre\Desktop\Socialite\Socialite\obj\Debug\net8.0\Socialite.pdb
 C:\Users\andre\Desktop\Socialite\Socialite\obj\Debug\net8.0\Socialite.genruntimeconfig.cache
 C:\Users\andre\Desktop\Socialite\Socialite\obj\Debug\net8.0\ref\Socialite.dll
+C:\Users\andre\Desktop\Socialite\Socialite\obj\Debug\net8.0\Socialite.sourcelink.json
